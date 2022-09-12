@@ -1,0 +1,14 @@
+/*Navbar*/
+.navbar-nav a {
+    font-size: 25px;
+}
+footer{
+    text-align: center;
+}
+
+.container{
+    background-color: rgb(143, 101, 135);
+    color: rgb(255, 14, 207);
+    font-size: 50px;
+}
+
