@@ -5,7 +5,7 @@
 
 ## Deployment Test:
 
-[netlify link](https://631ef94dd1b60470c29d7601--meek-narwhal-a9d9e6.netlify.app/)
+[netlify link](https://631efcd8aef380775ab19b1e--precious-figolla-ebec34.netlify.app/)
 
 ##  A React Js e-commerce website. It includes two pages, the homepage to display the list of products and page 2 to display the details of the selected product.
 
